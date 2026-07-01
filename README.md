@@ -3,7 +3,7 @@
 **`Desenvolvedora Front-End`**
 
 <h4> 
-  Sou Amanda Nogueira Castro, tenho 19 anos, atualmente estou cursando Engenharia de Computação pela UFOP e sou formada em Técnica em Informática para Internet pelo COTEMIG. Tenho sólida base em desenvolvimento de software, com experiência prática em C e Banco de Dados, além de vivência profissional como estagiária na Somicro. Minha principal área de atuação e paixão é o Front-end, com destaque para o uso de ReactJS. No meu projeto de conclusão de curso técnico, liderei a frente criativa e o desenvolvimento de uma plataforma de educação financeira infantil, unindo usabilidade e inovação. Busco constantemente evoluir e aplicar novas tecnologias para criar soluções de impacto no desenvolvimento de software. 
+  Sou Amanda Nogueira Castro, tenho 19 anos, atualmente estou cursando Engenharia de Computação pela UFOP e sou formada em Técnica em Informática para Internet pelo COTEMIG. Tenho sólida base em desenvolvimento de software, com experiência prática em C, JAVA e Banco de Dados, além de vivência profissional como estagiária na Somicro. Minha principal área de atuação e paixão é o Front-end, com destaque para o uso de ReactJS. No meu projeto de conclusão de curso técnico, liderei a frente criativa e o desenvolvimento de uma plataforma de educação financeira infantil, unindo usabilidade e inovação. Busco constantemente evoluir e aplicar novas tecnologias para criar soluções de impacto no desenvolvimento de software. 
 </h4>
 
 ##
